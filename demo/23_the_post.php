@@ -13,7 +13,7 @@ echo $_POST['name'];
     <title>POST</title>
 </head>
 <body>
-<form action="the_post.php" method="post">
+<form action="23_the_post.php" method="post">
     <input type="text" name="name">
     <input type="submit">
 

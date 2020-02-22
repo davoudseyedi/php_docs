@@ -2,8 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a21d2f9-069b-47d9-bd96-d82a4404f341" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/array_func.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/07_1_array_func.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/arrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/05_arrays.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/arrays_assoc.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/06_arrays_assoc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/class_car.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/27_class_car.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/class_car2.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/28_class_car2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/class_car3.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/29_class_car3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/comparison_op.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/09_comparison_op.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/constants.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/18_constants.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/cookies.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/24_cookies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/for_loops.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/12_for_loops.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/foreach_loops.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/13_foreach_loops.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/20_form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/form_ext.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/19_form_ext.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/form_proc.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/21_form_proc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/14_functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/get.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/22_get.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/ifstatement.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/08_ifstatement.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/math.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/03_math.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/math_func.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/04_math_func.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/passing_params_functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/15_passing_params_functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/return_value_functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/16_return_value_functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/scope.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/17_scope.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/session1.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/25_session1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/session2.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/26_session2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/string_func.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/07_0_string_func.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/switch.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/10_switch.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/the_post.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/23_the_post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/while_loops.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/11_while_loops.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +116,7 @@
       <workItem from="1582119002178" duration="9370000" />
       <workItem from="1582189065090" duration="21547000" />
       <workItem from="1582357088585" duration="10714000" />
-      <workItem from="1582374165039" duration="240000" />
+      <workItem from="1582374165039" duration="1549000" />
     </task>
     <servers />
   </component>

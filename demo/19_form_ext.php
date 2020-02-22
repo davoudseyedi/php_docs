@@ -5,7 +5,7 @@
     <title>Form External</title>
 </head>
 <body>
-<form action="form_proc.php" method="post">
+<form action="21_form_proc.php" method="post">
 
     <input type="text" name="username" placeholder="Enter Username" >
     <input type="password" name="password" placeholder="Enter Password">

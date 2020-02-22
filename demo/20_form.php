@@ -33,7 +33,7 @@
     <title>Title</title>
 </head>
 <body>
-<form action="form.php" method="post">
+<form action="20_form.php" method="post">
 
     <input type="text" name="username" placeholder="Enter Username" >
     <input type="password" name="password" placeholder="Enter Password">
