@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a21d2f9-069b-47d9-bd96-d82a4404f341" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1cKCt6hoB4y1j2cchwQKx13DU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo" />
+      <recent name="$PROJECT_DIR$/_practical-app" />
+      <recent name="$PROJECT_DIR$/mysql" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a21d2f9-069b-47d9-bd96-d82a4404f341" name="Default Changelist" comment="" />
+      <created>1582113474292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582113474292</updated>
+      <workItem from="1582113476316" duration="263000" />
+      <workItem from="1582113786309" duration="1671000" />
+      <workItem from="1582119002178" duration="9370000" />
+      <workItem from="1582189065090" duration="21547000" />
+      <workItem from="1582357088585" duration="10714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="1213" width="794" height="861" key="#PHP" timestamp="1582114962125">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="558" y="1213" width="794" height="861" key="#PHP/0.1080.1920.1080/0.41.1920.1039@0.1080.1920.1080" timestamp="1582114962125" />
+    <state x="716" y="1396" key="FileChooserDialogImpl" timestamp="1582373844804">
+      <screen x="0" y="41" width="1920" height="2119" />
+    </state>
+    <state x="716" y="1396" key="FileChooserDialogImpl/0.41.1920.2119@0.41.1920.2119" timestamp="1582373844804" />
+    <state x="728" y="1121" width="454" height="162" key="NewPhpFileDialog" timestamp="1582372866037">
+      <screen x="0" y="41" width="1920" height="2119" />
+    </state>
+    <state x="728" y="1563" width="454" height="162" key="NewPhpFileDialog/0.1080.1920.1080/0.41.1920.1039@0.1080.1920.1080" timestamp="1582211554019" />
+    <state x="728" y="1121" key="NewPhpFileDialog/0.41.1920.2119@0.41.1920.2119" timestamp="1582372866037" />
+    <state x="597" y="1468" key="com.intellij.ide.util.TipDialog" timestamp="1582189075479">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="597" y="1468" key="com.intellij.ide.util.TipDialog/0.1080.1920.1080/0.41.1920.1039@0.1080.1920.1080" timestamp="1582189075479" />
+    <state x="613" y="1349" width="692" height="678" key="search.everywhere.popup" timestamp="1582202744430">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="613" y="1349" width="692" height="678" key="search.everywhere.popup/0.1080.1920.1080/0.41.1920.1039@0.1080.1920.1080" timestamp="1582202744430" />
+    <state x="680" y="1546" width="560" height="195" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582372514381">
+      <screen x="0" y="41" width="1920" height="2119" />
+    </state>
+    <state x="680" y="1546" width="560" height="195" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.41.1920.2119@0.41.1920.2119" timestamp="1582372514381" />
+  </component>
+</project>
